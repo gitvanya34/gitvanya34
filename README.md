@@ -1,5 +1,5 @@
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gitvanya34&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/gitvanya34)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitvanya34&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitvanya34&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitvanya34&theme=dark)
